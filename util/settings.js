@@ -1,0 +1,3 @@
+
+export const DANH_SACH_FOOD = 'DANH_SACH_FOOD'
+export const DANH_SACH_FOOD_BAI2 = 'DANH_SACH_FOOD_BAI2'
